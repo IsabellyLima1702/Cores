@@ -1,6 +1,7 @@
 "use strict"
 //"use strict" serve para corrigir os erros básicos
 
+
 const botaoTrocarCor = document.getElementById('trocar-cor')
 
 function trocarCor () {
