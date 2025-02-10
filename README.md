@@ -20,4 +20,4 @@ Projeto para trocar a cor da página utilizando o JS. O intuito deste projeto é
 --- 
 
 ## Autor
-[Isabelly Lima](./https://www.linkedin.com/in/isabelly-silva-182a99349/)
+[Isabelly Lima](https://www.linkedin.com/in/isabelly-silva-182a99349/)
