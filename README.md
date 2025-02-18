@@ -16,6 +16,7 @@ Projeto para trocar a cor da página utilizando o JS. O intuito deste projeto é
 - CSS 
 - Markdown 
 - Git
+- JS
 
 --- 
 
